@@ -2,9 +2,9 @@
 const assert = require('assert');
 const greeter = require('../src/greeter');
 
-function greeter(name) {
-  return `Hello ${name}!`;
-}
+// function greeter(name) {
+//   return `Hello ${name}!`;
+// }
 
 describe('greeting library', () =>{
   it('greets by name', () => {
