@@ -1,0 +1,16 @@
+{
+  "name": "greeting-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/greeter.js",
+  "scripts": {
+    "test": "mocha tests",
+    "start" : "npm run -- -w"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^4.2.0",
+    "mocha": "^3.4.2"
+  }
+}
