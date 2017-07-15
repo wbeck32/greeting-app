@@ -5,7 +5,7 @@
   "main": "src/greeter.js",
   "scripts": {
     "test": "mocha tests",
-    "start" : "npm run -- -w"
+    "start": "npm test -- -w"
   },
   "author": "",
   "license": "ISC",
